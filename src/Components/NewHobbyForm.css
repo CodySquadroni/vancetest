@@ -1,0 +1,13 @@
+.container{
+    background-color: azure;
+    margin: 10px;
+}
+
+.submit-button{
+    border-radius: 5px;
+    background-color: purple;
+}
+
+.warning-message{
+    color:red;
+}

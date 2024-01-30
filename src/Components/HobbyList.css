@@ -1,0 +1,11 @@
+.hobby-list{
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+.hobby-card{
+    margin: 10px;
+    background-color: grey;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
